@@ -48,7 +48,7 @@ y_df = df.iloc[:,30:].values
 y_df
 
 """###Escalonamento dos valores"""
-
+#O objetivo dessa parte é padronizar os dados para que todos os parâmetros possuam o mesmo peso nos modelos
 from sklearn.preprocessing import StandardScaler
 scaler_credit = StandardScaler()
 x_df = scaler_credit.fit_transform(x_df)
