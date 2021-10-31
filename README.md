@@ -5,3 +5,6 @@ O projeto tem o objetivo escolher o melhor modelo para detecção de fraudes com
 
 Os dados utilizados se encontram no link abaixo:
 https://drive.google.com/file/d/1eGjeDL5w26yuDlpKRjmFoy03AoDWiOaJ/view?usp=sharing
+
+Ou pode ir direto para a página do Kaggle referente ao desafio do projeto:
+https://www.kaggle.com/mlg-ulb/creditcardfraud
