@@ -12,10 +12,9 @@ https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 ## Minha visão sobre o projeto
 
-Ao trazer um problema real o projeto traz problemas que o Cientista de dados deve estar preparado para enfrentar.
-Esse projeto é bem desafiador, principalmente para iniciantes da área, pois é ncessário uma visão mais aprofundada das ferramentas de tratamento de dados.
+Esse projeto é bem desafiador, principalmente para iniciantes da área, é ncessário uma visão mais aprofundada das ferramentas de tratamento de dados.
 
-Acredito que seja um ótimo projeto para quem quer se desafiar e extrair o melhor de sim.
+Acredito que seja um ótimo projeto para quem quer se desafiar e extrair o melhor de si.
 Não se desespere caso se sinta incapaz, estude o problema, busca referências tanto para o contexto, quanto para os problemas.
 
 Veja, aplique e replique...
